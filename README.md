@@ -11,9 +11,11 @@ A two-player Tic Tac Toe game written in Python using object-oriented programmin
 
 ## How to run
 1. Make sure you have Python 3 installed.
-2. Run:
+2. Run the following command:
 
+```bash
 python tic-tac-toe.py
+```
 
 ## What I practiced
 - Object-oriented programming (classes and objects)
